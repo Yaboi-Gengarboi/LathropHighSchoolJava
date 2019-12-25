@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Quadrilateral
+comment1.params=a\ b
+comment1.target=Quadrilateral(java.lang.String,\ double[])
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
