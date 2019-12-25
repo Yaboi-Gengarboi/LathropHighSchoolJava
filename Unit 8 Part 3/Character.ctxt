@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=a\ b\ c\ d\ e\ f
+comment1.target=Character(double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ grab()
+numComments=3
