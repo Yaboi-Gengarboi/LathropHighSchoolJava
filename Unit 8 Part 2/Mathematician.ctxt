@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mathematician
+comment1.params=a\ b\ c
+comment1.target=double[]\ quadratic(double,\ double,\ double)
+comment2.params=k\ angle
+comment2.target=double[]\ force(double,\ double)
+comment3.params=data
+comment3.target=double\ sampleStandardDeviation(double[])
+comment4.params=data
+comment4.target=double[]\ boxStats(double[])
+numComments=5

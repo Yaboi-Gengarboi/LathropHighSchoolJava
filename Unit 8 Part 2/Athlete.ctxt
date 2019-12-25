@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Athlete
+comment1.params=
+comment1.target=double\ runLap()
+comment2.params=
+comment2.target=int\ liftWeight()
+comment3.params=
+comment3.target=double[]\ yeet()
+numComments=4
