@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Link
+comment1.params=atk
+comment1.target=java.lang.String\ getSubactionID(java.lang.String)
+comment1.text=\n\ This\ method\ returns\ a\ String\ containing\ the\ Hex\ ID\ of\ Subactions\ that\n\ characters\ in\ Super\ Smash\ Bros\ Melee\ posses.\ This\ is\ required\ to\ create\n\ a\ proper\ FSM.\ Note\ that\ not\ all\ subactions\ are\ listed,\ only\ ones\ I\ deemed\ \n\ would\ possibly\ benefit\ from\ having\ an\ FSM.\n\ Requires\ a\ String\ input.\n
+numComments=2

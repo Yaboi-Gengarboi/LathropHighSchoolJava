@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Special
+comment1.params=str
+comment1.target=java.lang.String\ toHex(java.lang.String)
+comment1.text=\n\ Takes\ a\ String\ containing\ an\ int\ and\ converts\ it\ to\ IEEE\ 574\ format\ Hex\n\ Requires\ a\ String\ input.\n\ Can\ be\ called\ with\ Special.toHex(str);\n
+comment2.params=list\ list2
+comment2.target=void\ sortFSMList(java.util.ArrayList,\ java.util.ArrayList)
+comment2.text=\n\ Requires\ an\ ArrayList<String>\ input.\n\ Can\ be\ called\ with\ Special.sortFSMList(ArrayList<String>\ list,\ ArrayList<String>\ list2);\n
+comment3.params=fsmList\ sfsmList
+comment3.target=void\ createFile(java.util.ArrayList,\ java.util.ArrayList)
+comment3.text=\n\ Creats\ text\ file\ for\ FSMs\ if\ it\ does\ not\ exist\ and\ writes\ FSMs\ to\ it.\n\ If\ the\ file\ does\ exist,\ it\ will\ add\ on\ the\ FSMs\ to\ the\ list.\n\ Requires\ an\ ArrayList<String>\ input.\n\ Can\ be\ called\ with\ Special.createFile(ArrayList<String>\ fsmList,\ ArrayList<String>\ sfsmList);\n
+numComments=4
