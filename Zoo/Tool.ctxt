@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tool
+comment1.params=a\ b\ c
+comment1.target=Tool(java.lang.String,\ int,\ char)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=a
+comment3.target=void\ setName(java.lang.String)
+comment4.params=b
+comment4.target=void\ setID(int)
+comment5.params=c
+comment5.target=void\ setAbbrev(char)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=int\ getID()
+comment8.params=
+comment8.target=char\ getAbbrev()
+numComments=9

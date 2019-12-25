@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Water
+comment1.params=a\ b\ c
+comment1.target=Water(double,\ int,\ boolean)
+comment10.params=x
+comment10.target=void\ refill(double)
+comment11.params=
+comment11.target=void\ resetTemp()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=a
+comment3.target=void\ setVolume(double)
+comment4.params=b
+comment4.target=void\ setTemp(int)
+comment5.params=c
+comment5.target=void\ setIsLow(boolean)
+comment6.params=
+comment6.target=double\ getVolume()
+comment7.params=
+comment7.target=int\ getTemp()
+comment8.params=
+comment8.target=boolean\ getIsLow()
+comment9.params=x
+comment9.target=void\ take(double)
+numComments=12
